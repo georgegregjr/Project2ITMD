@@ -16,11 +16,15 @@ header ul {
   display: inline;
 }
 
+header ul li {
+  display: inline;
+}
+
 header ul li a{
   padding: 10px 25px;
   text-decoration: none;
   text-align: center;
-  color: purple;
+  color: pink;
   display: inline;
 }
   
