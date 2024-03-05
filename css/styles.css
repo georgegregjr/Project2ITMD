@@ -25,7 +25,10 @@ header ul li a{
   text-decoration: none;
   color: purple;
   display: inline;
-  font-size: 2.5em;
+  font-size: 3.5em;
   font-family: 'Tangerine', Arial, serif;
 }
-  
+
+.respage p {
+  color: orange;
+}
