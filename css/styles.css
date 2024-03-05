@@ -2,7 +2,7 @@ body {
   background-image: url("../media/background1.jpg");
 }
 
-#header #toplink {
+#header {
   text-decoration: none;
   position: absolute;
   top:-34px;
