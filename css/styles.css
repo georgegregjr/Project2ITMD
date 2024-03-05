@@ -3,6 +3,8 @@ body {
 }
 
 header {
+  float: left;
+  width: 100%;
   top:-34px;
   right: 10px;
   color: white;
