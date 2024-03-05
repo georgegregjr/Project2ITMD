@@ -7,18 +7,20 @@ header {
   right: 10px;
   color: white;
   font-size: 1.8em;
+  display: inline;
 }
 
 header ul {
   list-style-type: none;
   position: relative;
-  display: block;
+  display: inline;
 }
 
 header ul li a{
   padding: 10px 25px;
   text-decoration: none;
   text-align: center;
-  color: green;
+  color: purple;
+  display: inline;
 }
   
