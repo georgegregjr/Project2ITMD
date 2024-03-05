@@ -12,11 +12,11 @@ header {
 header ul {
   list-style-type: none;
   position: relative;
+  display: inline;
 }
 
 header ul li a{
   padding: 10px 25px;
-  display: inline-block;
   text-decoration: none;
   text-align: center;
   color: purple;
