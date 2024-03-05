@@ -12,8 +12,9 @@ header {
 
 header ul li a{
   padding: 10px 25px;
-  display: block;
+  display: inline-block;
   text-decoration: none;
-  color: #ccc;
+  text-align: center;
+  color: purple;
 }
   
