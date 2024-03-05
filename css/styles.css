@@ -29,6 +29,7 @@ header ul li a{
   font-family: 'Tangerine', Arial, serif;
 }
 
-.respage p {
+.respage ul li {
+  font-family: 'Tangerine', Arial, serif;
   color: orange;
 }
