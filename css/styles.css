@@ -3,11 +3,15 @@ body {
 }
 
 header {
-  display: block;
   top:-34px;
   right: 10px;
   color: white;
   font-size: 1.8em;
+}
+
+header ul {
+  list-style-type: none;
+  position: relative;
 }
 
 header ul li a{
