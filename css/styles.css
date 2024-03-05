@@ -1,5 +1,9 @@
 body {
   background-image: url("../media/background1.jpg");
+  width: 960px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1); 
+  border-radius: 12px 12px 0px 0px; 
 }
 
 header {
@@ -30,6 +34,6 @@ header ul li a{
 }
 
 .respage ul li {
-  font-family: 'Tangerine', Arial, serif;
-  color: orange;
+  font-family: Arial, serif;
+  color: green;
 }
