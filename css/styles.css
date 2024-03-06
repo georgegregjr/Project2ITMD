@@ -38,7 +38,7 @@ strong {
 
 .homepage ul li {
   font-family: Arial, serif;
-  color: green;
+  color: aquamarine;
 }
 
 .homepage p {
@@ -48,4 +48,8 @@ strong {
 
 .homepage main ul {
   background-image: url("../media/background1.jpg");
+}
+
+.homepage footer {
+  color: lime;
 }
