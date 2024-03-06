@@ -93,4 +93,9 @@ strong {
 .logopage p {
   color: #cc3433;
 }
+
+.logopage img {
+  width: 5%;
+  height: 5%;
+}
   
