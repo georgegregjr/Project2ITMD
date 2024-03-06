@@ -69,11 +69,12 @@ strong {
 }
 
 .respage main {
-  background-color: ghostwhite;
+  background-color: whitesmoke;
 }
 
 .respage #contact p {
   font-family: 'Tangerine', Arial, serif;
+  font-size: 2em;
   font-weight: 500;
 }
 
