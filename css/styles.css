@@ -86,16 +86,23 @@ strong {
   background-color: #0e3386;
 }
 
+.logopage h1 {
+  color: #cc3433;
+}
+
 .logopage h2 {
   color: #cc3433;
+  font-size: 2em;
 }
 
 .logopage p {
   color: #cc3433;
+  font-size: 1.5em;
 }
 
 .logopage img {
-  width: 5%;
-  height: 5%;
+  width: 8%;
+  height: 8%;
+  background-color: white;
 }
   
