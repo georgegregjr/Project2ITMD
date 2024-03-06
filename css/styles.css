@@ -36,6 +36,10 @@ strong {
   font-weight: 800;
 }
 
+.homepage h2 {
+  color: aqua
+}
+
 .homepage ul li {
   font-family: Arial, serif;
   color: aquamarine;
