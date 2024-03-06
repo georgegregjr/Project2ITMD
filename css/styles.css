@@ -57,3 +57,22 @@ strong {
 .homepage footer {
   background-color: aquamarine;
 }
+
+.respage #dean ul {
+  color: gold;
+  font-size: 1.5em;
+}
+
+.respage ul {
+  color: orange;
+}
+
+.respage main {
+  background-color: gray;
+}
+
+.respage #contact {
+  font-family: 'Tangerine', Arial, serif;
+  font-weight: 500;
+}
+  
