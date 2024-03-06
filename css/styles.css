@@ -42,7 +42,7 @@ strong {
 
 .homepage ul li {
   font-family: Arial, serif;
-  color: aquamarine;
+  color: red;
 }
 
 .homepage p {
@@ -55,5 +55,5 @@ strong {
 }
 
 .homepage footer {
-  color: lime;
+  background-color: aquamarine;
 }
