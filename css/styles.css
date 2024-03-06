@@ -80,4 +80,17 @@ strong {
 
 .respage h1 {
   text-align: center;
+}
+
+.logopage main {
+  background-color: #0e3386;
+}
+
+.logopage h2 {
+  color: #cc3433;
+}
+
+.logopage p {
+  color: #cc3433;
+}
   
