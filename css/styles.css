@@ -17,6 +17,7 @@ header ul {
   list-style-type: none;
   position: relative;
   display: inline;
+  text-align: center;
 }
 
 header ul li {
@@ -58,21 +59,24 @@ strong {
   background-color: aquamarine;
 }
 
+.respage ul {
+  color: orange;
+}
+
 .respage #dean ul {
   color: gold;
   font-size: 1.5em;
 }
 
-.respage ul {
-  color: orange;
-}
-
 .respage main {
-  background-color: gray;
+  background-color: ghostwhite;
 }
 
-.respage #contact {
+.respage #contact p {
   font-family: 'Tangerine', Arial, serif;
   font-weight: 500;
 }
+
+.respage h1 {
+  text-align: center;
   
