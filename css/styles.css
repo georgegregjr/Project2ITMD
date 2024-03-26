@@ -12,7 +12,6 @@ header {
 h1 {
   font-size: 3em;
   font-family: 'Gabriela', Arial, serif;
-  margin-left: 0.4em;
 }
 
 header ul {
@@ -41,7 +40,11 @@ strong {
 }
 
 p {
-  margin-left: 0.4em;
+  margin-left: 3em;
+}
+
+h2 {
+  margin-left: 3em;
 }
 
 .homepage h2 {
