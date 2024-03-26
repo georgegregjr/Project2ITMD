@@ -124,7 +124,9 @@ ul {
   height: 8%;
   background-color: white;
   margin-left: 1em;
-  float: right;
+  margin-bottom: 0.2em;
+  margin-top: 0.2em;
+  float: left;
   clear: both;
 }
 
