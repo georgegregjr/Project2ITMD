@@ -112,6 +112,7 @@ ul {
 .logopage h2 {
   color: #cc3433;
   font-size: 2em;
+  clear: both;
 }
 
 .logopage p {
@@ -127,7 +128,7 @@ ul {
   margin-bottom: 0.2em;
   margin-top: 0.2em;
   margin-right: 1em;
-  float: right;
+  float: left;
   clear: both;
 }
 
@@ -136,5 +137,4 @@ ul {
   margin-bottom: 0.2em;
   margin-top: 0.2em;
   margin-right: 1em;
-  float: right;
 }  
