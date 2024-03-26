@@ -1,7 +1,7 @@
 body {
   background-image: url("../media/pink.jpg");
   width: 80%;
-  margin: 1em;
+  margin: 0 auto;
 }
 
 header {
@@ -37,6 +37,10 @@ header ul li a{
 
 strong {
   font-weight: 800;
+}
+
+p {
+  margin-left: 0.2em;
 }
 
 .homepage h2 {
