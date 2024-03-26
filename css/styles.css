@@ -12,6 +12,7 @@ header {
 h1 {
   font-size: 3em;
   font-family: 'Gabriela', Arial, serif;
+  margin-left: 0.5em;
 }
 
 header ul {
@@ -122,5 +123,6 @@ ul {
   width: 8%;
   height: 8%;
   background-color: white;
+  margin-left: 0.5em;
 }
   
