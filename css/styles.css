@@ -34,7 +34,6 @@ header ul li a{
   font-size: 3.5em;
   text-align: center;
   font-family: 'Tangerine', Arial, serif;
-  position: fixed;
 }
 
 strong {
@@ -138,4 +137,7 @@ ul {
   margin-bottom: 0.2em;
   margin-top: 0.2em;
   margin-right: 1em;
+  position: fixed;
+  bottom: 5em;
+  left: 5em;
 }  
