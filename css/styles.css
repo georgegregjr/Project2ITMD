@@ -101,6 +101,11 @@ ul {
   text-align: center;
 }
 
+.respage main p {
+  float: left;
+  margin-left: 0.5em;
+}
+
 .logopage main {
   background-color: #0e3386;
   padding-bottom: 10em;
