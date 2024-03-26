@@ -99,7 +99,13 @@ ul {
 
 .respage h1 {
   text-align: center;
+  clear: both;
 }
+
+.respage h2 {
+  clear: both;
+}
+
 
 .respage main p {
   float: left;
