@@ -103,6 +103,7 @@ ul {
 
 .logopage main {
   background-color: #0e3386;
+  padding-bottom: 10em;
 }
 
 .logopage h1 {
@@ -138,6 +139,6 @@ ul {
   margin-top: 0.2em;
   margin-right: 1em;
   position: fixed;
-  bottom: 5em;
-  left: 5em;
+  bottom: 2em;
+  right: 2em;
 }  
