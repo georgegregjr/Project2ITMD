@@ -40,11 +40,15 @@ strong {
 }
 
 p {
-  margin-left: 3em;
+  margin-left: 0.5em;
 }
 
 h2 {
-  margin-left: 3em;
+  margin-left: 0.5em;
+}
+
+ul li {
+  margin-left; 0.5em;
 }
 
 .homepage h2 {
