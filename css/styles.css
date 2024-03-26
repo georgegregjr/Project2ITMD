@@ -60,6 +60,11 @@ ul {
   color: aqua
 }
 
+.homepage ul {
+  float: left;
+  width: 34%;
+}  
+
 .homepage ul li {
   font-family: Arial, Helvetica, sans-serif;
   color: red;
