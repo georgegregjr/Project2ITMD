@@ -89,6 +89,7 @@ ul {
 
 .respage main {
   background-color: whitesmoke;
+  padding-bottom: 10em;
 }
 
 .respage #contact p {
@@ -109,7 +110,7 @@ ul {
 
 .respage main p {
   float: left;
-  margin-left: 0.5em;
+  margin-left: 1em;
 }
 
 .logopage main {
